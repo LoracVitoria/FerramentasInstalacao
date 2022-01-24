@@ -98,6 +98,11 @@ sudo apt install git
 git --version
 ~~~
 
+* Observe se confere:
+~~~
+git version 2.25.1
+~~~
+
 
 ## Node.js
 
