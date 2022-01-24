@@ -151,6 +151,8 @@ sudo snap install postman
 
 ![Postman](https://terminalroot.com.br/assets/img/dev/postman-1.jpg)
 
+* Versão instalada foi: **9.10.0**
+
 ## HTTPie
 
 HTTPie é um cliente HTTP de linha de comando que visa tornar a interação da CLI com os serviços da web o mais amigável possível para o ser humano. 
