@@ -52,6 +52,24 @@ sudo ./SpringToolSuite4
 
 ## Java
 
+* No terminal digite:
+~~~
+sudo apt-get install openjdk-11-jdk
+~~~
+
+* Verifique a versão instalada:
+~~~
+java -version
+~~~
+* Deve receber a resposta:
+
+__
+openjdk version "11.0.13" 2021-10-19
+OpenJDK Runtime Environment (build 11.0.13+8-Ubuntu-0ubuntu1.20.04)
+OpenJDK 64-Bit Server VM (build 11.0.13+8-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+__
+
+
 
 ## MySQL
 
@@ -64,11 +82,15 @@ sudo ./SpringToolSuite4
 
 ## Postman
 
-Utilize o comando:
-_sudo snap install postman_
+* Utilize o comando:
+~~~
+sudo snap install postman
+~~~
 
 
 ## Httpie
 
-Digite o seguinte comando:
-_sudo snap install httpie_
+* Digite o seguinte comando:
+~~~
+sudo snap install httpie
+~~~
