@@ -111,6 +111,11 @@ sudo apt install nodejs
 node -v
 ~~~
 
+* Aparecerá:
+~~~
+v10.16.3
+~~~
+
 ## Postman
 
 * Utilize o comando:
@@ -118,6 +123,9 @@ node -v
 sudo snap install postman
 ~~~
 
+* Pesquise nos seus programas por "Postman"
+
+![Postman](https://terminalroot.com.br/assets/img/dev/postman-1.jpg)
 
 ## Httpie
 
@@ -125,3 +133,15 @@ sudo snap install postman
 ~~~
 sudo snap install httpie
 ~~~
+* Observe  a versão instalada:
+~~~
+http --version
+~~~
+
+* Aparecerá:
+~~~
+2.6.0
+~~~
+
+
+
