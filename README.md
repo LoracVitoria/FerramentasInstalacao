@@ -11,19 +11,19 @@ O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades pa
 
 
 **Primeiro passo**
-* Abra o terminal e atualize os pacotes:
+* Abra o terminal e atualize o banco de dados:
 ~~~
 sudo apt-get update
 ~~~
 
 **Segundo passo**
-* É atualizar os caminhos:
+* É atualizar os pacotes:
 ~~~
 sudo apt-get upgrade
 ~~~
 
 **Terceiro passo**
-* Se você usa a Snap store pode colocar o seguinte comando:
+* Para atualizar os pacotes instalados via snap use o seguinte comando:
 ~~~
 sudo snap refresh
 ~~~
