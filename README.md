@@ -63,22 +63,53 @@ java -version
 ~~~
 * Deve receber a resposta:
 
-__
+~~~
 openjdk version "11.0.13" 2021-10-19
 OpenJDK Runtime Environment (build 11.0.13+8-Ubuntu-0ubuntu1.20.04)
 OpenJDK 64-Bit Server VM (build 11.0.13+8-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
-__
-
-
+~~~
 
 ## MySQL
 
+* Cole no terminal o seguinte comando:
+~~~
+sudo apt install mysql-server
+~~~
+* Aperte y para selecionar yes;
+
+* Certifique-se da versão do MySQL instalada:
+~~~
+mysql --version 
+~~~
+* Deve aparecer:
+~~~
+mysql  Ver 8.0.27-0ubuntu0.20.04.1 for Linux on x86_64 ((Ubuntu))
+~~~
 
 ## Git
+
+* Execute no terminal o seguinte comando:
+~~~
+sudo apt install git
+~~~
+
+* Verifique a versão: 
+~~~
+git --version
+~~~
 
 
 ## Node.js
 
+* No terminal digite:
+~~~
+sudo apt install nodejs
+~~~
+
+* Veja a versão instalada:
+~~~
+node -v
+~~~
 
 ## Postman
 
